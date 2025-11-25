@@ -1,4 +1,4 @@
-# Find the index of a value in a tuple (handle value not present). simple logic 
+# Find the index of a value in a tuple (handle value not present).  
 t = (10, 20, 60, 70, 30, 40, 50, 80)
 f = 30
 
