@@ -1,3 +1,7 @@
 l = [1,2,3,1,3,5,6,3]
-s = set(l)
-print(s)
+u = []
+
+for i in l:
+    if i not in u:
+        u.append(i)
+print(u)
